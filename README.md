@@ -1,5 +1,5 @@
 #### About me
-Passionate software/infrastructure engineer. Keen on Kubernetes. In love with Golang & Rust.
+Passionate software engineer/infrastructure engineer. Keen on Kubernetes. In love with Golang and Rust. Love being on the cutting edge of technology and bringing things together that weren't originally meant to be together.
 
 #### Kubernetes badges
 
